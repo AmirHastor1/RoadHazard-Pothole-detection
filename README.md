@@ -1,8 +1,6 @@
 # OrnithoAI
 
-**Primjena dubokog učenja za klasifikaciju vrsta ptica na osnovu audio snimaka**
-
-Tim: OrnithoAI
+**Tema: Primjena dubokog učenja za klasifikaciju vrsta ptica na osnovu audio snimaka**
 
 ## 1. Definicija problema
 
